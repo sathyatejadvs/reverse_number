@@ -8,3 +8,6 @@ reverse
 -> 54546374387
 
 ***Steps:
+ - install rspec
+ - add rspecs for the implementation to follow TDD
+ - 
